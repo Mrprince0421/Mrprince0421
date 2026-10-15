@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Marcos Eduardo Eduardo Pachêco
+# 👨🏻‍💻 Marcos Eduardo Barbosa Pachêco
 
 **`Desenvolvedor de Software`**
 
