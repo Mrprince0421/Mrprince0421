@@ -35,5 +35,5 @@
 
 ### 📫 Vamos nos conectar?
 
-- 💼 **LinkedIn:** [Seu Nome](https://linkedin.com/in/SEU_LINKEDIN_AQUI)
-- 📧 **E-mail:** [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+- 💼 **LinkedIn:** [Marcos Eduardo Barbosa Pachêco](www.linkedin.com/in/marcos-eduardo-barbosa-pacheco-50057b283)
+- 📧 **E-mail:** (marcos.edu0102@gmail.com)
