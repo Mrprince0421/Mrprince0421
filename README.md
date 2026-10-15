@@ -146,4 +146,4 @@ Me chamo Marcos Eduardo, sou natural de Picos, no Piauí. Atualmente, estou curs
 ### 📫 Vamos nos conectar?
 
 - 💼 **LinkedIn:** [Marcos Eduardo Barbosa Pachêco](www.linkedin.com/in/marcos-eduardo-barbosa-pacheco-50057b283)
-* 📧 **E-mail:** [marcos.edu0102@gmail.com](mailto:marcos.edu0102@gmail.com)[cite: 1]
+* 📧 **E-mail:** [marcos.edu0102@gmail.com](mailto:marcos.edu0102@gmail.com)
